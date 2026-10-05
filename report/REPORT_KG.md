@@ -1,6 +1,6 @@
 # Báo cáo Day 19 — Flat RAG vs GraphRAG
 
-**Họ tên:** …  **MSSV:** …  **Ngày:** …
+**Họ tên:** Đào Minh Hiếu  **MSSV:** 2A202602561  **Ngày:** 05/10/2026
 
 > Kỳ vọng và thang điểm: `SUBMISSION.md`. Mọi số liệu phải khớp với `ket_qua_benchmark_kg.txt`. Bản thiết kế ontology nộp riêng ở `report/ONTOLOGY.md`.
 
